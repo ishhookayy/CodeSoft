@@ -9,7 +9,7 @@
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
-![Video Demo](https://github.com/ishhookayy/CodeSoft/assets/138235393/16ef5c5f-8fc2-4589-af60-ea0e280ae49d)
+![Video Demo]https://github.com/ishhookayy/CodeSoft/assets/138235393/16ef5c5f-8fc2-4589-af60-ea0e280ae49d
 
 # TASK 2
 # [GRADE CALCULATOR](https://github.com/ishhookayy/CodeSoft/tree/main/CodeSoft/StudentGradeCalculator)
