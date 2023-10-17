@@ -27,7 +27,7 @@ Welcome to the Number Game! This Java-based console application generates a rand
 https://github.com/ishhookayy/CodeSoft/assets/138235393/16ef5c5f-8fc2-4589-af60-ea0e280ae49d
 
 # TASK 2
-# [GRADE CALCULATOR](https://github.com/ishhookayy/CodeSoft/tree/main/CodeSoft/StudentGradeCalculator)
+# [STUDENT GRADE CALCULATOR](https://github.com/ishhookayy/CodeSoft/tree/main/CodeSoft/StudentGradeCalculator)
 ## Project Description
 The Grade Calculator is a Java console application that helps you calculate the grades for a set of subjects based on the marks obtained in each subject. It also provides an overall grade based on the average percentage.
 ## Features
@@ -46,7 +46,7 @@ The Grade Calculator is a Java console application that helps you calculate the 
 https://github.com/ishhookayy/CodeSoft/assets/138235393/949bb21f-8d16-4daa-bf88-0316f7e10e4e
 
 # TASK 3
-# [ATM Interface](https://github.com/ishhookayy/CodeSoft/tree/main/CodeSoft/ATM%20Interface)
+# [ATM INTERFACE](https://github.com/ishhookayy/CodeSoft/tree/main/CodeSoft/ATM%20Interface)
 ## Project Description
 The ATM Interface is a Java Swing application that simulates basic ATM operations, including checking the account balance, withdrawing funds, and making deposits. It's a user-friendly interface for managing a bank account.
 
