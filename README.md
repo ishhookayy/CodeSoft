@@ -49,5 +49,7 @@ The Currency Converter is a Java Swing application that allows you to convert be
 
 - **Error Handling**: The application performs error handling to ensure valid input and provides user-friendly error messages.
 
+- executable .jar file also provided
+
 ## Video Demo
 https://github.com/ishhookayy/CodeSoft/assets/138235393/65eebb8a-1731-4e89-853b-5471ea358754
